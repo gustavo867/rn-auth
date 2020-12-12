@@ -1,4 +1,4 @@
-# Nome do projeto
+# Rn-Auth
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gustavo867/rn-auth?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/gustavo867/rn-auth?style=for-the-badge)
